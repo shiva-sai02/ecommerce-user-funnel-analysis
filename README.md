@@ -1,0 +1,2 @@
+[Ecommerce_User_Funnel_Conversion_Analysis_Documentation.docx](https://github.com/user-attachments/files/31641103/Ecommerce_User_Funnel_Conversion_Analysis_Documentation.docx)
+
