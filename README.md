@@ -110,7 +110,7 @@ The analysis examines:
 - Major conversion bottlenecks
 - Opportunities for improving the customer journey
 
-![Drop-off Analysis](screenshot/Dropoff-analysis.png)
+![Drop-off Analysis](screenshot/Dropoff-analysis..png)
 
 ---
 
